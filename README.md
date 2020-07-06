@@ -1,6 +1,8 @@
-# pocket-book
+# 小财主-专注全资产管理
 
-## Project setup
+> 能不能做起来，我自己也不知道
+
+## 启动开发环境
 ```
 yarn install
 ```
